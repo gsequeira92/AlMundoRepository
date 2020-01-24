@@ -1,0 +1,12 @@
+# Eclipse
+.classpath
+.metadata/
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Common
+target/
